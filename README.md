@@ -3,7 +3,6 @@
 ![PCEP](https://img.shields.io/badge/Goal-PCEP%20Certified-blue)
 ![PCAP](https://img.shields.io/badge/Goal-PCAP%20Certified-green)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
-![Canonical](https://img.shields.io/badge/Target-Canonical-orange)
 
 A structured, public learning journal documenting my journey from Python basics to advanced programming, working toward the **PCEP** and **PCAP** certifications and a Graduate Software Engineer role at **Canonical**.
 
@@ -13,7 +12,6 @@ I'm a BS Computer Science + Mathematics graduate from Mercer University, buildin
 - Earn PCEP certification (Python Entry Level)
 - Earn PCAP certification (Python Associate)
 - Build real Python projects for my portfolio
-- Land a Graduate Software Engineer role at Canonical
 
 ## 📚 Study Plan
 
