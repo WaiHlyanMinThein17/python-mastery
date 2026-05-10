@@ -4,8 +4,7 @@
 ![PCAP](https://img.shields.io/badge/Goal-PCAP%20Certified-green)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 
-A structured, public learning journal documenting my journey from Python basics to advanced programming, working toward the **PCEP** and **PCAP** certifications and a Graduate Software Engineer role at **Canonical**.
-
+A structured, public learning journal documenting my journey from Python basics to advanced programming, working toward the **PCEP** and **PCAP** certifications.
 I'm a BS Computer Science + Mathematics graduate from Mercer University, building production-ready Python skills from the ground up. Every module, exercise and project is committed daily.
 
 ## 🎯 Goals
